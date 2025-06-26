@@ -1,0 +1,12 @@
+﻿  Projekt_4_Vadym_Piotr.cpp
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(161,103): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(161,81): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(161,62): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(161,43): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(302,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(507,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(596,92): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(596,75): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(596,53): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr\Projekt_4_Vadym_Piotr.cpp(596,41): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  Projekt_4_Vadym_Piotr.vcxproj -> C:\Users\piotrs\source\repos\Projekt_4_Vadym_Piotr\x64\Debug\Projekt_4_Vadym_Piotr.exe
