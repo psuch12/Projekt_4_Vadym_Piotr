@@ -1,4 +1,4 @@
-# Projekt 4 – Zadanie 4
+# TP Projekt 4 – Zadanie 4
 
 ## Ścieżki do plików EXE
 
